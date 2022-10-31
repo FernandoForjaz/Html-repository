@@ -1,0 +1,10 @@
+.Flex-conteiner{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.flex-item{
+    display:flex;
+    align-tems: center;
+}
